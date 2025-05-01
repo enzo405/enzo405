@@ -6,7 +6,7 @@
 - Cross platform game made in C# (Monogame) : https://globalgamejam.org/games/2025/gloup-9-0
 
 - (Outdated) CounterStrike 2 dashboard website : http://nade404.com/
-- (Outdated) School website management : https://atdispo-enzo.chaboisseau.net/
+- (Outdated) School website management : https://atdispo.luhcaran.fr/
 
 
 ### Languages & Tools :
