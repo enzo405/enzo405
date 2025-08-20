@@ -4,8 +4,10 @@
 - Desktop Chat App : https://www.youtube.com/watch?v=pcln2nACgh8
 - Cross platform game made in C# (Monogame) : https://globalgamejam.org/games/2025/gloup-9-0
 - School website management : https://atdispo.luhcaran.fr/
+- Music Listening Platform : https://cosmosound.luhcaran.fr/
 
 - (Outdated) CounterStrike 2 dashboard website : http://nade404.com/
+- (Abandoned) Event Website : https://festivibes.luhcaran.fr/ 
 
 
 ### Languages & Tools :
