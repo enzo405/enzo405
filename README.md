@@ -14,11 +14,12 @@
 <div>
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
 
   <!-- Frontend Development -->
   <h3>Frontend Development</h3>
@@ -39,6 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="mariadb" alt="mariadb" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="SQL Server" alt="SQL server" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cosmosdb/cosmosdb-original-wordmark.svg" title="Azure Cosmos DB" alt="Azure Cosmos DB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://az-icons.com/export/icons/675ad8e4daebee40114a4fe36033257c.svg" title="Azure Table" alt="Azure Table" width="40" height="40"/>
   
   <!-- DevOps & Tools -->
   <h3>DevOps & Tools</h3>
@@ -46,6 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg" title="Portainer" alt="Portainer" width="40" height="40"/>
 
   <!-- Cloud & Platforms -->
   <h3>Cloud & Platforms</h3>
