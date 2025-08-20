@@ -3,9 +3,9 @@
 - Archero Wiki Website : https://wiki-archero.luhcaran.fr/
 - Desktop Chat App : https://www.youtube.com/watch?v=pcln2nACgh8
 - Cross platform game made in C# (Monogame) : https://globalgamejam.org/games/2025/gloup-9-0
+- School website management : https://atdispo.luhcaran.fr/
 
 - (Outdated) CounterStrike 2 dashboard website : http://nade404.com/
-- (Outdated) School website management : https://atdispo.luhcaran.fr/
 
 
 ### Languages & Tools :
