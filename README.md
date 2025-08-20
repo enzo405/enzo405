@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg" title="Portainer" alt="Portainer" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>
 
   <!-- Cloud & Platforms -->
