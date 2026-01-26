@@ -5,9 +5,10 @@
 - Cross platform game made in C# (Monogame) : https://globalgamejam.org/games/2025/gloup-9-0
 - School website management : https://atdispo.luhcaran.fr/
 - Music Listening Platform : https://cosmosound.luhcaran.fr/
+- Discord Bot for communities : https://github.com/enzo405/Thanks
 
 - (Outdated) CounterStrike 2 dashboard website : http://nade404.com/
-- (Abandoned) Event Website : https://festivibes.luhcaran.fr/ 
+- (Abandoned) Event Website : https://festivibes.luhcaran.fr/
 
 
 ### Languages & Tools :
