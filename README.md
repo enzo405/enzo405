@@ -1,5 +1,6 @@
 ### Projets :
 
+- Decision Manager (Unity mobile game) : https://github.com/enzo405/Decision-Manager/releases/tag/v1.0.0
 - Archero Wiki Website : https://wiki-archero.luhcaran.fr/
 - Desktop Chat App : https://www.youtube.com/watch?v=pcln2nACgh8
 - Cross platform game made in C# (Monogame) : https://globalgamejam.org/games/2025/gloup-9-0
