@@ -1,75 +1,49 @@
-### Projets :
+## 🚀 Projects
 
-- Decision Manager (Unity mobile game) : https://decision-manager.luhcaran.fr/
-- Archero Wiki Website : https://wiki-archero.luhcaran.fr/
-- Desktop Chat App : https://www.youtube.com/watch?v=pcln2nACgh8
-- Cross platform game made in C# (Monogame) : https://globalgamejam.org/games/2025/gloup-9-0
-- ColorLess (Unity) : https://globalgamejam.org/games/2026/cci-campus-colorless-9
-- School website management : https://atdispo.luhcaran.fr/
-- Music Listening Platform : https://cosmosound.luhcaran.fr/
-- Discord Bot for communities : https://github.com/enzo405/Thanks
+### 🎮 Games
 
-- (Outdated) CounterStrike 2 dashboard website : http://nade404.com/
-- (Abandoned) Event Website : https://festivibes.luhcaran.fr/
+| Project | Description | Tech | Database | Links |
+|--------|-------------|------|----------|-------|
+| **Decision Manager** | Mobile game built in Unity with a REST API backend | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [🔗 Live](https://decision-manager.luhcaran.fr/) |
+| **Gloup** | Cross-platform game made in 48h at Global Game Jam 2025 | ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Monogame](https://img.shields.io/badge/MonoGame-E73C00?style=flat) | — | [🔗 GGJ](https://globalgamejam.org/games/2025/gloup-9-0) |
+| **ColorLess** | Unity game made in 48h at Global Game Jam 2026 | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | — | [🔗 GGJ](https://globalgamejam.org/games/2026/cci-campus-colorless-9) |
 
+---
 
-### Languages & Tools :
-<div>
-  <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+### 🌐 Web Applications
 
-  <!-- Frontend Development -->
-  <h3>Frontend Development</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+| Project | Description | Tech | Database | Links |
+|--------|-------------|------|----------|-------|
+| **Archero Wiki** | Fan-made wiki website for Archero | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [🔗 Live](https://wiki-archero.luhcaran.fr/) |
+| **CosmosSound** | Music listening platform with cloud file management | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [🔗 Live](https://cosmosound.luhcaran.fr/) |
+| **AtDispo** | School website management tool | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | [🔗 Live](https://atdispo.luhcaran.fr/) |
 
-  <!-- Backend Development -->
-  <h3>Backend Development</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet Core" alt="Dotnet Core" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
-  
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="mariadb" alt="mariadb" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="SQL Server" alt="SQL server" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cosmosdb/cosmosdb-original-wordmark.svg" title="Azure Cosmos DB" alt="Azure Cosmos DB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://az-icons.com/export/icons/675ad8e4daebee40114a4fe36033257c.svg" title="Azure Table" alt="Azure Table" width="40" height="40"/>
-  
-  <!-- DevOps & Tools -->
-  <h3>DevOps & Tools</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
+---
 
-  <!-- Cloud & Platforms -->
-  <h3>Cloud & Platforms</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
-</div>
+### 🖥️ Desktop Applications
 
+| Project | Description | Tech | Database | Links |
+|--------|-------------|------|----------|-------|
+| **Desktop Chat App** | Downloadable desktop chat application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [▶️ Demo](https://www.youtube.com/watch?v=pcln2nACgh8) |
 
-### Github Stats 🔥 :
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enzo405&theme=vision-friendly-dark)](https://git.io/streak-stats)  
+### 🤖 Tools & Bots
 
-[![Github Projets Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo405&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| Project | Description | Tech | Database | Links |
+|--------|-------------|------|----------|-------|
+| **Thanks** | Discord bot for community engagement & management | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | [📦 GitHub](https://github.com/enzo405/Thanks) |
 
-<!-- BLOG-POST-LIST:START -->
+---
 
-<!-- BLOG-POST-LIST:END -->
+### 🗂️ Archived
+
+<details>
+<summary>Show archived / outdated projects</summary>
+
+| Project | Status | Links |
+|--------|--------|-------|
+| **CS2 Dashboard** *(nade404)* | 🔶 Outdated | [🔗 Site](http://nade404.com/) |
+| **FestiVibes** *(Event Website)* | 🔴 Abandoned | [🔗 Site](https://festivibes.luhcaran.fr/) |
+
+</details>
