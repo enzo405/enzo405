@@ -1,3 +1,18 @@
+## ⚙️ How I Ship
+
+All projects follow the same automated deploy pipeline:
+```
+Push → GitHub Actions → Docker Registry → Portainer Webhook → Live
+```
+
+| Step | Tool | Detail |
+|------|------|--------|
+| **Trigger** | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) | Pipeline starts on every push · branch name determines the image tag |
+| **Build** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Image built and tagged `appVersion` + `latest` |
+| **Push** | ![Docker](https://img.shields.io/badge/Registry-2496ED?style=flat&logo=docker&logoColor=white) | Both tags pushed to private registry · credentials stored as repo secrets |
+| **Deploy** | ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white) | Stack compose targets `:latest` · pipeline calls the stack webhook to repull & redeploy |
+
+
 ## 🚀 Projects
 
 ### 🎮 Games
